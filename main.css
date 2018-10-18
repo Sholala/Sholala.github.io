@@ -1,0 +1,45 @@
+.title{
+  padding: 20px;
+}
+.klh{
+  padding-left:20px;
+
+}
+.navbar-custom .navbar-brand{
+  color:white;
+  font-size: 25px;
+}
+
+.navbar-custom .navbar-nav .nav-link{
+  color: white;
+}
+
+.navbar-custom {
+  background-color: #008489;
+}
+
+.room-info i {
+  font-size: 27px;
+  padding-right: 100px;
+  color: #ff5a5f;
+}
+
+.room-info p{
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+}
+
+.text-center{
+  text-align: center;
+}
+.cc i{
+  color: gray;
+}
+.cc p{
+  color: black;
+}
+
+.img{
+  padding-top: 20px;
+}
